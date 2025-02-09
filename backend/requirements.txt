@@ -5,3 +5,5 @@
  pyserial
  torch
  python-multipart
+scikit-image
+
