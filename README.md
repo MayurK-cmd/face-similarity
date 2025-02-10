@@ -2,8 +2,9 @@
 
 --through python(3.10.1)
 1. python -m venv venv
-2. pip install -r requirements.txt
-3. uvicorn app:app --reload
+2. venv\Scripts\Activate
+3. pip install -r requirements.txt
+4. uvicorn app:app --reload
 
 
 --through docker
